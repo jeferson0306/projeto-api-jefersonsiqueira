@@ -11,3 +11,7 @@ Y
 )src/main/java/vo/SituacaoResultadoVO.java,e\9\e9b667c51e544cd86c219adf6d9ccbd1efabcf63
 V
 &src/main/java/vo/RetornoServicoVO.java,9\e\9e0a64cb0e53e19a36dc2e41953eeeb442545bb0
+R
+"src/main/java/vo/ClienteCPFVO.java,2\7\275320a9dce857edf5306303b44a4ea65980b601
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec

@@ -1,0 +1,14 @@
+vo\ClienteResponseVO.class
+util\LogUtil.class
+util\RESTServiceCliente.class
+exception\TechnicalException.class
+vo\ClienteCPFVO.class
+bo\ClienteBO.class
+vo\ResultadoServicoVO.class
+vo\ClienteEnderecoVO.class
+util\Utilidades.class
+vo\RetornoServicoVO.class
+Main.class
+vo\SituacaoResultadoVO.class
+controllers\ClienteController.class
+vo\ClienteVO.class
